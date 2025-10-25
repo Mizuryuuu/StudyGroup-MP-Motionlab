@@ -1,10 +1,8 @@
 # StudyGroup MP Motionlab
 
----
-
 ## Version Control
 Version Control adalah sistem yang digunakan untuk mengelola perubahan pada kode atau dokumen. Dengan version control, developer bisa melacak setiap versi, kembali ke versi sebelumnya, dan berkolaborasi tanpa saling menimpa pekerjaan.
-***
+
 ## Git
 Git adalah salah satu Version Control System, dan git ini digunakan untuk beberapa platform kolaborasi developer seperti contohnya: Github, Gitlab, Bitbucket, Dll.
 
